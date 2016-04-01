@@ -1,0 +1,211 @@
+img{
+	max-width: 100%; 
+}
+
+.header {
+	margin-top: 35px;
+	color: #C9C6C6;
+}
+
+.header span{
+	border: solid 1px #E5E2E2;
+	padding: 10px 2px 10px 10px;
+	font-size: medium;
+	white-space: pre;
+	color: #959595;
+	float: right;
+}
+
+.principal {
+	background-color: #383837;
+	height: 450px;
+	overflow: hidden;
+}
+.banner{
+	height: 450px;
+}
+
+.hero p {
+	color: #DAD7D7;
+	font-size: 28px;
+	margin-top: 20px;
+}
+
+hr {
+	color: #DAD7D7;
+	width: 90%;
+	margin-top: 10px;
+}
+
+.button-green {
+	border-radius: 5px;
+	border: 2px solid #23C44D;
+	height: 30px;
+}
+
+.button-green p {
+	color: #23C44D;
+	padding-top: 5px;
+	font-size: 14px;
+}
+
+.margin {
+	margin-top: 20px;
+}
+
+.text {
+	color: #DAD7D7;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+.text-g {
+	color: #DAD7D7;
+	padding-top: 5px;
+	font-size: 15px;
+	font-weight: 30px;
+}
+
+.menu ul{
+	list-style: none;
+}
+
+.button-yellow{
+	background-color: #F0D437;
+	border-radius: 5px;
+	width: 150px;
+	height: 40px;
+	padding: 10px;
+}
+
+.button-orange{
+	background-color: #CA9618;
+	border-radius: 5px;
+	width: 150px;
+	height: 40px;
+	padding: 10px;
+}
+
+.button-yellow a{
+	text-decoration: none;
+	color: #fff;
+	font-size: small;
+	font-family: Arial;
+	text-align: center;
+}
+.button-orange a{
+	text-decoration: none;
+	color: #fff;
+	font-size: small;
+	font-family: Arial;
+	text-align: center;
+}
+
+.movie{
+	background-color: #F0D437;
+	padding: 20px 40px;
+}
+.movie img{
+	height: 200px;
+	margin: 20px 0 20px 0;
+}
+
+.interstellar {
+	width: 100%;
+	height: 250px;
+}
+
+.gray{
+	font-family: Calibri;
+	font-size: 25px;
+	color: #B6B4B4;
+	margin-top: 25px;
+}
+.black{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 35px;
+	color: #040404;
+	margin-top: 30px;
+}
+
+.gray-w{
+	font-family: Calibri;
+	font-weight: 2px;
+	font-size: 25px;
+	color: #D4D2D2;
+	margin-top: 30px;
+}
+
+.button{
+	background-color: #E88422;
+	border-radius: 5px;
+	width: 140px;
+	height: 50px;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.button a{
+	text-decoration: none;
+	color: #fff;
+	font-size: small;
+	font-family: Arial;
+	text-align: center;
+}
+
+.enlace{
+	color: #AA1B1B;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: Arial;
+}
+
+.p-one{
+	font-family: Arial;
+	font-size: x-large;
+	color: #C3BFBF;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.p-two{
+	font-family: Arial;
+	font-size: small;
+	color: #060606;
+	font-weight: bolder;
+}
+
+.p-three{
+	font-family: Arial;
+	font-size: x-small;
+	color: #C3BFBF;
+}
+
+.book p{
+	font-family: Arial;
+	font-size: x-small;
+	color: #C3BFBF;
+	margin-bottom: 40px;
+}
+
+.book hr{
+	margin-bottom: 15px;
+}
+
+.more{
+	color: #D4831A;
+	text-decoration: none;
+}
+
+.movie-two{
+	padding: 30px;
+	margin-top: 20px;
+}
+
+.movie-two img{
+	width: 250px;
+	height: 250px;
+}
+
